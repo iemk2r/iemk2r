@@ -5,7 +5,6 @@
 
 I'm a beginner developer passionate about web development, creative design, and programming. I'm currently learning, building practice projects, and exploring different areas of technology to find my path.
 
-**Code. Learn. Create. Repeat.**
 
 ---
 
