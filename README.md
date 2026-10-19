@@ -13,7 +13,7 @@ I enjoy creating websites and exploring what I can build with code. I'm still le
 print("Python — for learning programming")
 ```
 ```C++
-cout << "C++ — for exploring more of the coding world";
+cout << "C++ — for exploring more of the coding world";"
 ```
 
  🌱 Currently
