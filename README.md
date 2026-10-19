@@ -1,26 +1,35 @@
-# Hey, I'm iemk2r 👋
+Hi there, I'm Iemk2r 👋
+💻 Aspiring Frontend Developer
 
-I'm a beginner programmer learning new things, experimenting with code, and figuring things out one step at a time.
+I'm a beginner developer passionate about web development, creative design, and programming. I'm currently learning, building practice projects, and exploring different areas of technology to find my path.
 
-I enjoy creating websites and exploring what I can build with code. I'm still learning, making mistakes, and improving along the way — and that's part of the fun.
+Code. Learn. Create. Repeat.
 
- 💻 What I use
- ```HTML
-<h1>HTML & CSS — for building websites</h1>
-<h2 class="text-red-500 font-bold"> Css Tailwind - still studying it.</h2>
-```
-```Python
-print("Python — for learning programming")
-```
-```C++
-cout << "C++ — for exploring more of the coding world"";
-```
+🚀 About Me
+🌱 Currently learning frontend development
+🎨 Interested in UI design, modern websites, and animations
+💻 Exploring Python and C++
+🛠️ Building practice projects to improve my skills
+🎯 Goal: Explore programming and find my path in tech
+📚 Always curious and ready to learn something new
+🧰 Languages & Tools
 
- 🌱 Currently
-- Improving my programming skills
-- Learning more about web development
-- Working on small projects and trying new thing
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,python,cpp,git,github,vscode" alt="Technologies and tools" />
+</p>
 
-I don't know everything yet, but I'm here to learn, improve, and see where programming takes me.
+🎨 Interests
+🌐 Web Development
+🖌️ UI Design
+✨ Animations & Interactive Effects
+🐍 Python Programming
+⚙️ C++ Programming
+📌 Current Focus
 
-Thanks for stopping by! :)
+I'm focusing on improving my HTML and CSS skills, learning to create clean and responsive interfaces, and experimenting with different ideas through practice projects.
+
+I'm still at the beginning of my journey, and I'm excited to see where programming takes me.
+
+<p align="center">
+<i>Code. Learn. Create. Repeat.</i>
+</p>
