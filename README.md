@@ -22,7 +22,7 @@ I'm a beginner developer passionate about web development, creative design, and 
 ## 🧰 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,python,cpp,git,github,vscode" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,python,cpp,git,github,vscode](https://skillicons.dev/icons?i=html,css,tailwind,python,cpp,git,github,vscode,js)" alt="Languages and Tools" />
 </p>
 
 ---
